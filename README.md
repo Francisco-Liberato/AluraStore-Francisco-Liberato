@@ -42,4 +42,9 @@ Indico ao senhor João que faça a venda da Loja 2, pois na análise de vendas p
 
 A dificuldade de venda nas principais categorias afasta a Loja 2 do padrão das demais, gerando assim maiores dificuldades de gerenciamento para o senhor João.
 
+## Feito por:
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196274842?s=400&u=09b66969c0566e14dceb7f1fad9f1af642b12ec1&v=4" width=115><br><sub>Francisco Liberato</sub>](https://github.com/Francisco-Liberato) |
+| :---: |
+
   
